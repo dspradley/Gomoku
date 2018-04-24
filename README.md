@@ -1,1 +1,2 @@
-# Lab2
+The game is very similar to tic-tac-toe, only that you are playing on a larger board (usually consisting of a squared paper). The goal is to get ﬁve-in-a-row. You are allowed to place your marker anywhere there’s an empty square on the board. The two players (X and O) take turns to place their markers on an empty square on the board, and may try to play oﬀensively or defensively. The person with the best strategy and sharpest eyes usually wins the game.
+Program works full when compiled but need add instructions here.
